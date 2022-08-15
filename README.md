@@ -1,12 +1,10 @@
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanfeluck/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](renanfeluck@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanfeluck/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](renanfeluck@gmail.com)
 
 I'm **Renan Felipe**. I'm a Front-End Software Engineer living in Curitiba Brazil. I'm working with Web and Mobile development for 5+ years.
 
 ## 📫 How to reach me
 
-* 🔗 I have a personal website at [LuckDev](https://luckdev.vercel.app) where all my social networks are located! You can reach me anywhere over there! Feel free to contact if you want, I'm always open to contribute with the community.
+* 🔗 I have a personal website at [LuckDev](https://luckdev.vercel.app) where all my social networks are located and some of my recent projects! Feel free to contact if you want, I'm always open to contribute with the community.
 
 ## 💻 Languages & Tools I Know...
 
